@@ -1,1 +1,1 @@
-# freelancenotes
+# freelance-notes
