@@ -1,4 +1,3 @@
 # freelance-notes
 
-## Topics
 
